@@ -1,0 +1,9 @@
+target/
+!**/src/main/**/target/
+!**/src/test/**/target/
+.idea
+.mvn
+test
+HELP.md
+mvnw
+mvnw.cmd
